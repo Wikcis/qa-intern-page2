@@ -1,0 +1,164 @@
+body {
+    background-color: #E1D4C9;
+    margin: 20px;
+    font-family: Inter, sans-serif;
+}
+.headerBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.centeredLabelsHeaderBar {
+    flex: 1;
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+}
+
+.coffeeImageContainer {
+    max-width: 1600px;
+    min-width: 600px;
+    max-height: 700px;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.coffeeImage {
+    max-width: 1600px;
+    min-width: 600px;
+    max-height: 700px;
+    min-height: 350px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.inCoffeeImage {
+    position: absolute;
+    gap: 10px;
+    padding: 5%;
+    white-space: nowrap;
+}
+
+.biggerTextImage {
+    font-weight: 700;
+    font-size: 40px;
+    color: #E1D4C9;
+}
+
+.highlightedText {
+    font-style: italic;
+    color: #B0907A;
+}
+
+.smallerTextImage{
+    font-weight: 100;
+    font-size: 12px;
+    color: #E1D4C9;
+}
+
+.menuButton {
+    max-width: 100px;
+    min-width: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 10px;
+    font-size: 1rem;
+    text-decoration: none;
+    text-align: center;
+    background-color: #E1D4C9;
+    color: black;
+    border-radius: 40px;
+    width: 30%;
+}
+
+.guyCoffeeImage {
+    max-height: 600px;
+    min-height: 200px;
+    width: 100%;
+    border-radius: 25px;
+    left: 0;
+}
+
+.mainText {
+    margin-top: 10%;
+    color: #403F3D;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.guyCoffeeImage {
+    width: 50%;
+}
+
+.smallText {
+    font-weight: 100;
+    font-size: 12px;
+    color: #403F3D;
+}
+
+.button {
+    width: 20%;
+    height: 50px;
+    padding: 2%;
+    background-color: transparent;
+    outline-color: black;
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+    min-width: 120px;
+    text-align: start;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottomContainer {
+    border-radius: 20px;
+    background-color: #665F55;
+    color: #E1D4C9;
+    padding: 10%;
+    margin-top: 10%;
+}
+
+.smallButtonText {
+    font-size: 9px;
+}
+
+.buttonIcon {
+    width: 30px;
+    height: 30px;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    white-space: nowrap;
+}
+
+.textAndIcon {
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+}
+
+a {
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+}
+
+a:after, a:link, a:visited, a:hover, a:active {
+    color: #000;
+    display:inline-block;
+    text-decoration: none;
+}
