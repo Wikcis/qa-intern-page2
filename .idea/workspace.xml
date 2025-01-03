@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aacd5eb9-088a-4cbf-ada0-32385522b3cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/apple-store.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/google-play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/phone.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.css" beforeDir="false" afterPath="$PROJECT_DIR$/page2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="aacd5eb9-088a-4cbf-ada0-32385522b3cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +55,22 @@
       <option name="presentableId" value="Default" />
       <updated>1735827557272</updated>
       <workItem from="1735827558293" duration="4745000" />
-      <workItem from="1735903273112" duration="7824000" />
+      <workItem from="1735903273112" duration="8172000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
